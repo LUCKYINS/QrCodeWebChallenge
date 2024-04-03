@@ -1,2 +1,2 @@
 # QRWebsite
- Frontend Mentor Challeng
+ Frontend Mentor Challenge
